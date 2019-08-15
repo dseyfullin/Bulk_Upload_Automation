@@ -1,5 +1,5 @@
 
-declare @batch_id bigint = 201908131618431
+declare @batch_id bigint = 201908151535011
 
 
 -- Staging
