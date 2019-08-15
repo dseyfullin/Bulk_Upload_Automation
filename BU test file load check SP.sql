@@ -17,7 +17,6 @@ declare
 	,@sqlText3 varchar(1000)
 	,@sqlText4 varchar(1000)
 
-
 set nocount on
 
 begin
