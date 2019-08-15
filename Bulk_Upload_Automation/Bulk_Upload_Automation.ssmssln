@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Bulk_Upload_Automation", "Bulk_Upload_Automation\Bulk_Upload_Automation.ssmssqlproj", "{46F190A5-7816-4EFB-B02F-DD349B4ECC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F190A5-7816-4EFB-B02F-DD349B4ECC53}.Default|Default.ActiveCfg = Default
+		{7CB943F2-8128-4060-9F39-18DECC642FAD}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
